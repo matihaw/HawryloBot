@@ -1,0 +1,23 @@
+{
+  "name": "hawrylobot",
+  "version": "1.0.0",
+  "description": "Discord Bot",
+  "main": "src/index.js",
+  "scripts": {
+    "run": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matihaw/HawryloBot.git"
+  },
+  "author": "Mateusz Hawryluk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matihaw/HawryloBot/issues"
+  },
+  "homepage": "https://github.com/matihaw/HawryloBot#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
